@@ -8,13 +8,13 @@
 
 ## Tasks 📌
 1. To download 2 datasets.
-2. For each dataset choose ready model from torchvision.
-3. Unfreeze some layers and launch teaching of models.
+2. For each dataset to choose ready model from torchvision.
+3. To unfreeze last layer and some layers before and to launch teaching of models.
 4. To deploy app om streamlit service.
 
 ## Used models 🤖
-1. Resnet50 fo 1 task.
-2. Resnet34 fo 2 task.
+1. Resnet50 for 1 task.
+2. Resnet34 for 2 task.
 
 ## Used instruments 🧰
 1. Python
