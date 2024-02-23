@@ -38,3 +38,7 @@ Thumbs.db
 
 ###########
 .venv/
+intel-image-classification/
+skin-cancer-malignant-vs-benign/ 
+intel-image-classification.zip
+skin-cancer-malignant-vs-benign.zip
