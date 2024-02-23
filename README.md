@@ -17,5 +17,6 @@
 2. Resnet34 fo 2 task.
 
 ## Used instruments 🧰
-Python
-Pytorch
+1. Python
+2. Pytorch
+3. Streamlit
