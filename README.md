@@ -21,4 +21,10 @@
 ## Used instruments 🧰
 1. Python.
 2. Pytorch.
-3. Streamlit.
+3. [Streamlit](https://nnproject1-6tcyg5tnwo2we6fg8gqbgt.streamlit.app).
+
+## Useful links 🔗
+1. How to use your own model weight when deploying using Streamlit - [YouTube](https://www.youtube.com/watch?v=MNxhy_jBGs4).
+2. [How to download data from Kaggle in Google Colaboratory](https://github.com/Elbrus-DataScience/ds-phase-2/blob/master/08-nn/md/kaggle-colab.md).
+3. [How do I download data from Google Drive to Google Coollaboratory?](https://github.com/Elbrus-DataScience/ds-phase-2/blob/master/08-nn/md/drive-colab.md)
+4. [How do I save weights and model in pwtorch?](https://github.com/Elbrus-DataScience/ds-phase-2/blob/master/08-nn/md/save_torchmodel.md)
